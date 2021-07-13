@@ -19,7 +19,6 @@ const animate = function () {
     if (fullTurn < (90*(Math.PI/180))){
         fullTurn += (Math.PI/180)
         defineSelectionRotation(SelectedGroup, Direction)
-        console.log("FUCK") 
         if (fullTurn > (90*(Math.PI/180))){
             ball = true;
         }  
