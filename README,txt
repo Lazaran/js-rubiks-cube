@@ -1,0 +1,17 @@
+Controls:
+
+MouseClick1 + move mouse: Rotate Cube
+
+Q: Select Front Face // Red
+E: Select Back Face // Orange
+W: Select Top Face // White
+S: Select Bottom Face // Yellow
+A: Select Left Face // Green
+D: Select Right Face // Blue
+
+Up Arrow: Rotate Clockwise
+Down Arrow: Rotate Counterclockwise
+
+
+The cube is not yet complete, I have not implemented a way to change each individual cubes new position and orientation after a face rotation, 
+thus rotating mulitiple faces results in a jumbled mess.
